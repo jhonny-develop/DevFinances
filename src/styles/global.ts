@@ -12,8 +12,16 @@ const GlobalStyles = createGlobalStyle`
   }
 
   body{
-    font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    background-color: #b4efb1;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  h2{
+    margin-top: 3.2rem;
+    margin-bottom: 0.8rem;
+    color: ${(props) => props.theme.colors.colorblack};
+
+    font-weight: normal;
   }
 
 `
