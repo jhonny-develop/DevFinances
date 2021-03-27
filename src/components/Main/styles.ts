@@ -6,10 +6,6 @@ export const Wrapper = styled.main`
   margin: auto;
 `
 
-export const Transaction = styled.section``
-
-export const DataTable = styled.table``
-
 export const Footer = styled.footer`
   text-align: center;
 `
