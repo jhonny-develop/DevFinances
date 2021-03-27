@@ -6,6 +6,9 @@ declare module 'styled-components' {
 
     colors: {
       colorblack: string
+      total: string
+      white: string
+      colorTableHead: string
     }
   }
 }

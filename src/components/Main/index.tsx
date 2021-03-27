@@ -9,7 +9,7 @@ const Main = () => {
         <Balance />
         <Transactions />
       </S.Wrapper>
-      <S.Footer>@2021 dev.finance$</S.Footer>
+      <S.Footer>&copy;2021 dev.finance$</S.Footer>
     </>
   )
 }
